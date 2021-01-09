@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am XinYue 🤓 
+### Helluu 👋 I am XinYue 🤓✨
 
 I like to draw 👩‍🎨 and learn how to code 👩‍💻
 
