@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am XinYue 🤓 
+
+I like to draw 👩‍🎨 and learn how to code 👩‍💻
+
+You can find out more about me on [LinkedIn](https://www.linkedin.com/in/xinyuehehxy/) 🤪
+
 <!--
 **eksinyue/eksinyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
