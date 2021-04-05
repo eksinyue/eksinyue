@@ -1,6 +1,6 @@
 ### Helluu 👋 I am XinYue 🤓✨
 
-I am a 2nd year Comp Sci student studying at National University of Singapore.
+I am a 2nd year Comp Sci undergraduate at National University of Singapore.
 
 I like to draw 👩‍🎨 and to learn how to code 👩‍💻
 
