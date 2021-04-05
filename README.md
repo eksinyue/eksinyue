@@ -1,8 +1,12 @@
 ### Helluu 👋 I am XinYue 🤓✨
 
-I like to draw 👩‍🎨 and learn how to code 👩‍💻
+I am a 2nd year Comp Sci student studying at National University of Singapore.
+
+I like to draw 👩‍🎨 and to learn how to code 👩‍💻
 
 You can find out more about me on [LinkedIn](https://www.linkedin.com/in/xinyuehehxy/) 🤪
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eksinyue&show_icons=true&count_private=true)
 
 <!--
 **eksinyue/eksinyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
