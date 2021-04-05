@@ -1,7 +1,5 @@
 ### Helluu 👋 I am XinYue 🤓✨
 
-I am a 2nd year Comp Sci undergraduate at National University of Singapore.
-
 I like to draw 👩‍🎨 and to learn how to code 👩‍💻
 
 You can find out more about me on [LinkedIn](https://www.linkedin.com/in/xinyuehehxy/) 🤪
