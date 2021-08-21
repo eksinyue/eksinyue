@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/eksinyue?label=Follow&style=social)
 [![Linkedin: eksinyue](https://img.shields.io/badge/-eksinyue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eksinyueh/)](https://www.linkedin.com/in/eksinyue/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.eksinyue.com/)](https://www.eksinyue.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=eksinyue.eksinyue)
+![](https://komarev.com/ghpvc/?username=eksinyue&color=ff69b4)
 
 ### <img src="https://c.tenor.com/v3Kzb5rlFdgAAAAi/mochi-cute.gif" width="50"> A little more about me...  
 
