@@ -38,7 +38,7 @@ const xinyue = {
 <!--     funFact, challenges, tagline? -->
 <!--     currentFocus: "full stack web dev", -->
 
-<img src="https://c.tenor.com/TRSYCx4GnGoAAAAi/budding-pop-friends.gif" width="60"> <b>Thanks for visiting!</b> Looking forward to conneting with you! 🤓 🤙
+<img src="https://c.tenor.com/TRSYCx4GnGoAAAAi/budding-pop-friends.gif" width="60"> <b>Thanks for visiting!</b> Looking forward to connecting with you! 🤓 🤙
 
 ---
 
