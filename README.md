@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="35"> Helluu I am XinYue <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="55">✨
 
-<p>Penultimate year comp sci undergrad at <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a>
+<p>Final year comp sci undergrad at <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/eksinyue?label=Follow&style=social)
